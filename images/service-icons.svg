@@ -1,0 +1,28 @@
+<svg width="280" height="70" viewBox="0 0 280 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Enterprise Solutions Icon -->
+  <g transform="translate(10, 10)">
+    <rect x="2" y="2" width="46" height="46" rx="10" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <rect x="15" y="15" width="20" height="20" rx="3" fill="none" stroke="#ff6b6b" stroke-width="3"/>
+    <circle cx="25" cy="45" r="5" fill="#00b8d4"/>
+  </g>
+  
+  <!-- Testing Services Icon -->
+  <g transform="translate(80, 10)">
+    <circle cx="25" cy="25" r="23" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <path d="M15 25L22 32L35 18" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Mobile App Development Icon -->
+  <g transform="translate(150, 10)">
+    <rect x="13" y="5" width="24" height="40" rx="5" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <rect x="17" y="10" width="16" height="25" rx="2" fill="none" stroke="#ff6b6b" stroke-width="2"/>
+    <circle cx="25" cy="40" r="3" fill="#00b8d4"/>
+  </g>
+  
+  <!-- Strategic Offerings Icon -->
+  <g transform="translate(220, 10)">
+    <path d="M25 5L35 15L25 25L15 15L25 5Z" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <path d="M25 25L35 35L25 45L15 35L25 25Z" fill="none" stroke="#ff6b6b" stroke-width="3"/>
+    <circle cx="25" cy="25" r="5" fill="#00b8d4"/>
+  </g>
+</svg> 

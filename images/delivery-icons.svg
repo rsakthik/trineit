@@ -1,0 +1,34 @@
+<svg width="280" height="70" viewBox="0 0 280 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- On-Site Icon -->
+  <g transform="translate(10, 10)">
+    <path d="M25 5L45 20L25 35L5 20L25 5Z" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <circle cx="25" cy="20" r="8" fill="none" stroke="#ff6b6b" stroke-width="2"/>
+    <path d="M25 32V45" stroke="#00b8d4" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="25" cy="45" r="3" fill="#00b8d4"/>
+  </g>
+  
+  <!-- Off-Site Icon -->
+  <g transform="translate(80, 10)">
+    <rect x="5" y="10" width="40" height="30" rx="5" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <path d="M5 20H45" stroke="#ff6b6b" stroke-width="2"/>
+    <circle cx="15" cy="15" r="2" fill="#00b8d4"/>
+    <circle cx="25" cy="15" r="2" fill="#00b8d4"/>
+    <circle cx="35" cy="15" r="2" fill="#00b8d4"/>
+  </g>
+  
+  <!-- Hybrid Icon -->
+  <g transform="translate(150, 10)">
+    <circle cx="25" cy="25" r="20" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <path d="M15 25H35" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M25 15V35" stroke="#ff6b6b" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="25" cy="25" r="5" fill="none" stroke="#00b8d4" stroke-width="2"/>
+  </g>
+  
+  <!-- Off-Shore Icon -->
+  <g transform="translate(220, 10)">
+    <circle cx="25" cy="25" r="20" fill="none" stroke="#6a3de8" stroke-width="3"/>
+    <path d="M15 30C15 30 20 35 25 35C30 35 35 30 35 30" stroke="#ff6b6b" stroke-width="2" stroke-linecap="round"/>
+    <path d="M15 20C15 20 20 15 25 15C30 15 35 20 35 20" stroke="#ff6b6b" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="25" cy="25" r="3" fill="#00b8d4"/>
+  </g>
+</svg> 
